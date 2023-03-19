@@ -90,8 +90,8 @@ Seconed, Data should be prepared in a way that the model can accept, in this nod
 Third, A predictor can  be created and output size should be 10 indicating the 10 classes. 
 
 Two Images from the training dataset were selected and passed to the endpoint. The first is of A "leptodactylus_pentadactylus" Which is a sort of frog and has a label of 6 and the output of the predictor showed that the 6th element has the highest softmax value. The seconed element name is camion which is a type of trucks that holds label 9 and the output of the predictor gives maximum softmax value for the ninth element in the output array. 
-
-![Deployed Endpoint1](ScreenShots/Deployed%20Endpoint2.PNG)
+![Deployed Endpoint1](ScreenShots/Deployed%20Endpoint1.png)
+![Deployed Endpoint2](ScreenShots/Deployed%20Endpoint2.PNG)
 ![EndpointLogs](ScreenShots/EndpointLogs.PNG)
 
      
